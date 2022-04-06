@@ -7,16 +7,8 @@
 				{
 					"build" : ".",
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
-					"minimumCMakeVersion" : 
-					{
-						"string" : "3.0"
-					},
 					"projectIndex" : 0,
-					"source" : ".",
-					"targetIndexes" : 
-					[
-						0
-					]
+					"source" : "."
 				}
 			],
 			"name" : "Debug",
@@ -27,23 +19,10 @@
 					[
 						0
 					],
-					"name" : "Cmake_test",
-					"targetIndexes" : 
-					[
-						0
-					]
+					"name" : "Project"
 				}
 			],
-			"targets" : 
-			[
-				{
-					"directoryIndex" : 0,
-					"id" : "test::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-test-Debug-0c9bde0e60785d8b77cf.json",
-					"name" : "test",
-					"projectIndex" : 0
-				}
-			]
+			"targets" : []
 		}
 	],
 	"kind" : "codemodel",

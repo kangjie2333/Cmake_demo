@@ -94,7 +94,7 @@
 						"mingwex"
 					]
 				},
-				"path" : "g++",
+				"path" : "D:/software/mingw64/bin/x86_64-w64-mingw32-g++.exe",
 				"version" : "8.1.0"
 			},
 			"language" : "CXX",
